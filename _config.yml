@@ -71,6 +71,7 @@ facebook:
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
+
 social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : Kristian López Vargas # If the user or organization name differs from the site's name
