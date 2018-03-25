@@ -321,6 +321,6 @@ compress_html:
 
 
 
-git add _config.yml && \
-git commit -m "add change to yml" && \
-git push
+#git add _config.yml && \
+#git commit -m "add change to yml" && \
+#git push
