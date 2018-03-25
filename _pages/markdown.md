@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-
 This was in the about pages, originally
 =======================================
 
