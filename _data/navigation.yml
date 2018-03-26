@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/
@@ -17,3 +17,5 @@ main:
     
   - title: "_"
     url: /markdown/
+
+# git add _data/navigation.yml && git commit -m "add change to _data/navigation.yml" && git push
