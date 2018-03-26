@@ -256,5 +256,5 @@ This allows you to denote <var>variables</var>.
 
 
 <!--
-git add _pages/markdown.md && git commit -m "add change to yml" && git push
+git add _pages/markdown.md && git commit -m "add change to markdown" && git push
 -->

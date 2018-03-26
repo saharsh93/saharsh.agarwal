@@ -18,4 +18,6 @@ main:
   - title: "_"
     url: /markdown/
 
+# git commit -am "add change to ________" && git push
+
 # git add _data/navigation.yml && git commit -m "add change to _data/navigation.yml" && git push
