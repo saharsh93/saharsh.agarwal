@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an assistant professor of economics at UCSC. My main fields of interest and work are microeconomics, behavioral economics and experimental economics.
+I am an assistant professor of economics at UCSC. My work is in microeconomics, behavioral economics and experimental economics.
 
 <!--
 git add _pages/about.md && git commit -m "add change to _pages/about" && git push
