@@ -14,10 +14,9 @@ My work is in microeconomics, behavioral economics and experimental economics.
 
 ## [Research](research)
 
+## [Teaching](teaching)
 
-## Teaching
-
-## CV
+## [CV](CV)
 
 
 
