@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Original guide page of academic pages"
+title: "Original guide page for the academicpages template"
 author_profile: "AcademicPages"
 redirect_from: 
   - /md/
