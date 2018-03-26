@@ -19,8 +19,6 @@ My work is in microeconomics, behavioral economics and experimental economics.
 ## [CV](CV)
 
 
-
-
 <!--
 git commit -am "add change to ________" && git push
 -->
