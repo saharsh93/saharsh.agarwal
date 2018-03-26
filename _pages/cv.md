@@ -36,9 +36,9 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
+Research / Publications
+=======================
+  <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
