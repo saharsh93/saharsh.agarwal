@@ -3,7 +3,8 @@ title: "-"
 collection: research
 permalink: /research/2001-01-01-paper-title-number-1000
 excerpt: '-'
-date: 2001-01-01
+date:
+<!--  2001-01-01-->
 venue: '-'
 paperurl: ''
 <!--  http://kmlv.github.io/files/paper1.pdf-->
