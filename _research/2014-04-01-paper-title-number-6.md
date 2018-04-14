@@ -1,4 +1,4 @@
-﻿---
+---
 title: "On the Demand for Expressing Emotions"
 collection: research
 permalink: /research/2014-04-01-paper-title-number-6
