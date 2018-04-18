@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Research, Teaching Interests
+======
+* Experimental Economics
+* Behavioral Economics
+* Microeconomics
 
 Education
 ======
@@ -70,16 +75,6 @@ Work experience
 * 2002 – 2004: Analyst
    * Ministry of Economy and Finance of Peru
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
 Honors, Awards
 ======
 
@@ -99,7 +94,70 @@ Honors, Awards
    * UniónVida Academic Excellence Award: UniónVida Academic Excellence Award, Banco Santander
 
 
-Skills
+Grants
+======
+
+* Apr 2018 – Sep 2018
+   * Principal Investigator, "Testbed Experiments for CRP Auction Design", University of Maryland - USDA (Awarded 4/2018) $65,000
+   
+* Fall 2016
+   *  Co-Principal Investigator, "High Frequency Trading and Financial Market Design" (with Eric Aldrich and Daniel Friedman). Second Seed Funding from Santa Cruz Center for Analytical Finance (CAFIN). $10,000
+
+* Apr 2016 – Mar 2017
+   * Principal Investigator, "Testbed Experiments for CRP Auction Design", University of Maryland - USDA (Project 4/2016-3/2017; Awarded 4/2016) $32,365
+
+* Nov 2015 – Oct 2016
+   * Principal Investigator, "Emotion Expression in Economics", University of Exeter. (Project 11/2015-10/2016; Awarded 4/2016) $7,193
+
+* Oct 2015 – Oct 2016 
+   * Principal Investigator, Principal Investigator, "Emotion Expression in Economics", University of Exeter. (Project 11/2015-10/2016; Awarded 7/2016) $14,627
+
+* Summer 2016
+   * Principal Investigator, UCSC Committee on Research (COR) Grants $2,000
+
+* Fall 2015
+   * Co-Principal Investigator, "High Frequency Trading and Financial Market Design" (with Eric Aldrich and Daniel Friedman). Seed funding from UC Santa Cruz Center for Analytical Finance (CAFIN).  $10,000
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Conferences and Meetings
+======
+
+* 2017
+   * Conference: Society of Experimental Finance. Presented:” Experiments in High-Frequency Trading” PEER REVIEWED INVITED
+
+* 2015
+   * Conference: Stanford Institute for Theoretical Economics 2015. Presented: "Fairness and Risk Attitudes: Theory and Experiment" PEER REVIEWED INVITED
+
+* 2014
+   * Conference: ICES Conference at George Mason University, Fairfax VA
+
+* 2014
+   * Conference: Peruvian Economic Association Annual Meeting
+
+* 2014
+   * Conference: Conference on Experimental Methods in Policy, Willemstad
+
+* 2013
+   * Conference: North-American Economic Science Association Conference, Santa Cruz, CA
+
+* 2013
+   * Conference: AEA Annual Meeting (coauthor presented), San Diego
+
+* 2013
+   * Conference: Thurgau Experimental Economics Meeting (THEEM), Switzerland
+
+* 2013
+   * Workshop: 18th Annual Workshop in Experimental Economics, International Foundation for Research in Experimental Economics at Chapman University, Los Angeles CA
+
+* 2012
+   * Workshop: 13th Trento Summer School on Market Design, Univ. of Trento, Italy
+
+* 2011
+   * Workshop: 2nd Asia Summer School on Behavioral Economics, Singapore
+
+
+Other
 ======
 * Skill 1
 * Skill 2
