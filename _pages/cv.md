@@ -9,16 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D. in Economics, University of Maryland, 2015
+* M.Sc. in Economics, Texas A&M University, 2009
+* B.S. in Social Sciences - Economics, Pontificia Universidad Católica del Perú, 2001
 
 Work experience
 ======
 * July 2015: Assistant Professor, Economics Department
-   * University of California, Santa Cruz (on leave)
+   * University of California, Santa Cruz 
 
 * Fall 2015 – Spring 2016: Visiting Assistant Professor, Department of Economics
    * University of Maryland
@@ -78,7 +79,26 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+Honors, Awards
+======
+
+* Fall 2014 – Spring 2015
+   * Fellowship: Alicia and Roger Betancourt Fellowship in Applied Economics
+
+* 2008 – 2009
+   * Scholarship: Texas Higher Education Coordinating Board Scholarship
+
+* 2007 – 2009
+   * Fulbright Award: Fulbright Scholarship, Institute of International Education
+
+* 2007 – 2009
+   * Scholarship: BARSA Scholarship, Brazil-based De Sa Inter-American Foundation
+
+* 2002
+   * UniónVida Academic Excellence Award: UniónVida Academic Excellence Award, Banco Santander
+
+
 Skills
 ======
 * Skill 1
