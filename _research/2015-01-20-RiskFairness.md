@@ -5,12 +5,16 @@ title: "Risk Attitudes and Fairness: Theory and Experiment"
 collection: research
 
 permalink: /research/2015-01-20-RiskFairness
+
 excerpt: ''
+
 date: 2015-01-20
+
 venue:
+
 paperurl: 'http://econweb.umd.edu/~lopez-vargas/LopezVargas_JMP_2014.pdf'
 
-citation: 'López Vargas, K. (2014).&quot;Risk Attitudes and Fairness: Theory and Experiment.&quot; <i>Job Market Paper</i>.'
+citation: 'López Vargas, K. (2014). &quot;Risk Attitudes and Fairness: Theory and Experiment.&quot; <i>Job Market Paper</i>.'
 
 ---
 
