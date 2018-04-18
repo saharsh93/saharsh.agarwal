@@ -14,4 +14,4 @@ The Conservation Reserve Program (CRP), the world’s largest conservation progr
 
 [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164730)
 
-<!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
+Recommended citation: Cramton, P., Hellerstein, D., Higgins, N., Iovanna, R., López-Vargas, K. (2017). &quot;Testbed Experiments for Improving the Cost-Effectiveness of the Conservation Reserve Program.&quot; <i>Working Paper</i>.
