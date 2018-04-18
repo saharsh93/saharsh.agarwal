@@ -5,7 +5,7 @@ collection: research
 
 permalink: /research/2014-04-01-paper-title-number-6
 
-excerpt:''
+excerpt: ''
 
 date: 2014-04-21
 
