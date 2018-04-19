@@ -132,7 +132,7 @@ Other
 Research / Publications
 =======================
   <ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
   
 Talks, Conferences, and Meetings
