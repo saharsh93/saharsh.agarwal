@@ -184,6 +184,16 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Scholarly and Creative Work
+======
+In Progress: Working Paper: Testbed Experiments for Improving the Cost-Effectiveness of the Conservation Reserve Program
+- Revised since application, and First time submitted for review
+
+Under Revision: "On the Demand for Expressing Emotions," Revise and resubmit at American Economic Review (with Brit Grosskopf)
+- Submitted at time of application; revision in progress and paper not resubmitted for this review
+
+Journal Articles: "Multi-Object Auctions and Resale: Theory and Experiment," Games and Economic Behavior, Volume 89, January 2015, Pages 1-16 (with Erkut Ozbay and Emel Filiz-Ozbay) (Jan 2015) PEER REVIEWED
+  
+Service and Leadership
 ======
 * Currently signed in to 43 different slack teams
