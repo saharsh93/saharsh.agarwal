@@ -120,43 +120,6 @@ Grants
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-Conferences and Meetings
-======
-
-* 2017
-   * Conference: Society of Experimental Finance. Presented:” Experiments in High-Frequency Trading” PEER REVIEWED INVITED
-
-* 2015
-   * Conference: Stanford Institute for Theoretical Economics 2015. Presented: "Fairness and Risk Attitudes: Theory and Experiment" PEER REVIEWED INVITED
-
-* 2014
-   * Conference: ICES Conference at George Mason University, Fairfax VA
-
-* 2014
-   * Conference: Peruvian Economic Association Annual Meeting
-
-* 2014
-   * Conference: Conference on Experimental Methods in Policy, Willemstad
-
-* 2013
-   * Conference: North-American Economic Science Association Conference, Santa Cruz, CA
-
-* 2013
-   * Conference: AEA Annual Meeting (coauthor presented), San Diego
-
-* 2013
-   * Conference: Thurgau Experimental Economics Meeting (THEEM), Switzerland
-
-* 2013
-   * Workshop: 18th Annual Workshop in Experimental Economics, International Foundation for Research in Experimental Economics at Chapman University, Los Angeles CA
-
-* 2012
-   * Workshop: 13th Trento Summer School on Market Design, Univ. of Trento, Italy
-
-* 2011
-   * Workshop: 2nd Asia Summer School on Behavioral Economics, Singapore
-
-
 Other
 ======
 * Skill 1
@@ -172,7 +135,7 @@ Research / Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks, Conferences, and Meetings
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
