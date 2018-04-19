@@ -135,7 +135,7 @@ Research / Publications
     {% include archive-single.html %}
   {% endfor %}</ul>
   
-Talks, Conferences, and Meetings
+Talks, Conferences, and Workshops
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
