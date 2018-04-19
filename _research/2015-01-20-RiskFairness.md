@@ -10,7 +10,7 @@ excerpt: ''
 
 date: 2015-01-20
 
-venue:
+venue: ''
 
 paperurl: 'http://econweb.umd.edu/~lopez-vargas/LopezVargas_JMP_2014.pdf'
 
