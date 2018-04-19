@@ -178,6 +178,20 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Talks and Presentations at Colleges and Universities
+======
+* 2013
+  * Seminar: Brown Bag Seminar at George Mason University
+  
+Review/Referee Grants, Proposals and Publications
+======
+* 2015-2016
+  * Referee: 2015-16 Service By Invitation:
+  Internationan Economic Review,
+  Journal of Economic behavior and Organization,
+  Journal of Economic Psychology,
+  Latin American Research Review
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -197,3 +211,5 @@ Journal Articles: "Multi-Object Auctions and Resale: Theory and Experiment," Gam
 Service and Leadership
 ======
 * Currently signed in to 43 different slack teams
+* University Service - Service to the Department: 2015-16, Coordinator for department's weekly Brown Bag Seminar Series
+* University Service- Service to the University: Spring 2016, Review Committee Member, 2016 UC MEXUS-CCONACYT Resarch Grant
