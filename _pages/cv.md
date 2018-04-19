@@ -21,9 +21,15 @@ Education
 * M.Sc. in Economics, Texas A&M University, 2009
 * B.S. in Social Sciences - Economics, Pontificia Universidad Católica del Perú, 2001
 
+Research / Publications
+=======================
+  <ul>{% for post in site.research %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Work experience
 ======
-* July 2015: Assistant Professor, Economics Department
+* July 2015-present: Assistant Professor, Economics Department
    * University of California, Santa Cruz 
 
 * Fall 2015 – Spring 2016: Visiting Assistant Professor, Department of Economics
@@ -97,6 +103,9 @@ Honors, Awards
 Grants
 ======
 
+* Fall 2017-present
+   *  Co-Principal Investigator, "High Frequency Trading and Financial Market Design" (with Eric Aldrich, Daniel Friedman). Sub-award from European Research Council (ERC) - University of Cologne (grant agreement No 741409). $100,000
+
 * Apr 2018 – Sep 2018
    * Principal Investigator, "Testbed Experiments for CRP Auction Design", University of Maryland - USDA (Awarded 4/2018) $65,000
    
@@ -120,12 +129,6 @@ Grants
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-
-Research / Publications
-=======================
-  <ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks, Conferences, and Workshops
 ======
@@ -133,11 +136,7 @@ Talks, Conferences, and Workshops
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Talks and Presentations at Colleges and Universities
-======
-* 2013
-  * Seminar: Brown Bag Seminar at George Mason University
-  
+
 Review/Referee Grants, Proposals and Publications
 ======
 * 2015-2016
