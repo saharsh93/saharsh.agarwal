@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Affiliation
+======
+* July 2015-present: Assistant Professor, Economics Department
+   * University of California, Santa Cruz 
+
 Research, Teaching Interests
 ======
 * Experimental Economics
@@ -27,8 +32,11 @@ Research / Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+----------------------------------------------------------------------------------------------------------------------------  
+
 Work experience
 ======
+
 * July 2015-present: Assistant Professor, Economics Department
    * University of California, Santa Cruz 
 
@@ -81,6 +89,7 @@ Work experience
 * 2002 – 2004: Analyst
    * Ministry of Economy and Finance of Peru
 
+----------------------------------------------------------------------------------------------------------------------------
 Honors, Awards
 ======
 
@@ -99,7 +108,7 @@ Honors, Awards
 * 2002
    * UniónVida Academic Excellence Award: UniónVida Academic Excellence Award, Banco Santander
 
-
+----------------------------------------------------------------------------------------------------------------------------
 Grants
 ======
 
@@ -139,22 +148,29 @@ Talks, Conferences, and Workshops
 
 Review/Referee Grants, Proposals and Publications
 ======
-* 2015-2016
-  * Referee: 2015-16 Service By Invitation:
-  Internationan Economic Review,
-  Journal of Economic behavior and Organization,
-  Journal of Economic Psychology,
-  Latin American Research Review
+* Referee: 2015-16 Service By Invitation:
+  * Internationan Economic Review,
+  * Journal of Economic behavior and Organization,
+  * Journal of Economic Psychology
+  * Journal and Behavioral Experimental Finance
+  * Journal of Economics & Management Strategy
+  * Latin American Research Review
+  
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 
-Service and Leadership
+
+Service 
 ======
-* Currently signed in to 43 different slack teams
 * University Service - Service to the Department: 2015-16, Coordinator for department's weekly Brown Bag Seminar Series
 * University Service- Service to the University: Spring 2016, Review Committee Member, 2016 UC MEXUS-CCONACYT Resarch Grant
+
+Other
+======
+* Co-Director LEEPS Lab UCSC, CA
+* Co-Director LEEX Lab PUCP, Peru
+
