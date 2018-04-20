@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+<h1 align="center">CV</h1>
+<h2 align="center">Kristian López Vargas</h2>
+
 
 {% include base_path %}
 
