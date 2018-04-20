@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<h1 align="center">CV</h1>
-<h2 align="center">Kristian López Vargas</h2>
-
+<h! align="center">Kristian López Vargas</h1>
+<p! align="center">kristian@ucsc.edu</p>
 
 {% include base_path %}
 
