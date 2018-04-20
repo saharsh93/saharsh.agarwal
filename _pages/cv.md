@@ -32,7 +32,7 @@ Research / Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-----------------------------------------------------------------------------------------------------------------------------  
+
 
 Work experience
 ======
@@ -108,7 +108,7 @@ Honors, Awards
 * 2002
    * UniónVida Academic Excellence Award: UniónVida Academic Excellence Award, Banco Santander
 
-----------------------------------------------------------------------------------------------------------------------------
+
 Grants
 ======
 
@@ -136,7 +136,6 @@ Grants
 * Fall 2015
    * Co-Principal Investigator, "High Frequency Trading and Financial Market Design" (with Eric Aldrich and Daniel Friedman). Seed funding from UC Santa Cruz Center for Analytical Finance (CAFIN).  $10,000
 
-----------------------------------------------------------------------------------------------------------------------------
 
   
 Talks, Conferences, and Workshops
@@ -146,7 +145,7 @@ Talks, Conferences, and Workshops
   {% endfor %}</ul>
   
 
-Review/Referee Grants, Proposals and Publications
+Review/Referee
 ======
 * Referee: 2015-16 Service By Invitation:
   * Internationan Economic Review,
