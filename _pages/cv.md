@@ -168,6 +168,8 @@ Teaching
 
 Service 
 ======
+* Coorganizer of the 2018 Lima Conference of Behavioral and Experimental Economics. 
+* Coorganizer of the 2018 UCSC Workshop on High-Frequency Trading and Financial Market Design.
 * University Service - Service to the Department: 2015-16, Coordinator for department's weekly Brown Bag Seminar Series
 * University Service- Service to the University: Spring 2016, Review Committee Member, 2016 UC MEXUS-CCONACYT Resarch Grant
 
@@ -175,4 +177,5 @@ Other
 ======
 * Co-Director LEEPS Lab UCSC, CA
 * Co-Director LEEX Lab PUCP, Peru
+* 
 
