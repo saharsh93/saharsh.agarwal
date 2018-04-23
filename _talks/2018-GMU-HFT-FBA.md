@@ -1,4 +1,3 @@
-
 ---
 title: "Experiments in High-Frequency Trading: Testing the Frequent Batch Auction"
 collection: talks
