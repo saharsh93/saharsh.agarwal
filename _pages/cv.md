@@ -10,7 +10,7 @@ redirect_from:
 <h1 align="center">Kristian López Vargas</h1>
 <p 
 align="center"> 
-<a href="mailto:kristian@ucsc.edu?Subject=From%20github%20page" target="_top">kristian@ucsc.edu</a> align="center"> 
+<a href="mailto:kristian@ucsc.edu?Subject=From%20github%20page" target="_top">kristian@ucsc.edu</a> 
 <a href="https://kmlv.github.io">https://kmlv.github.io</a> 
 </p>
 
