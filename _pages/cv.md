@@ -149,16 +149,15 @@ Talks, Conferences, and Workshops
   {% endfor %}</ul>
   
 
-Review/Referee
+Academic Referee Work
 ======
-* Referee: 2015-16 Service By Invitation:
   * Internationan Economic Review,
   * Journal of Economic behavior and Organization,
   * Journal of Economic Psychology
+  * Journal and Behavioral Experimental Economics
   * Journal and Behavioral Experimental Finance
   * Journal of Economics & Management Strategy
   * Latin American Research Review
-  
   
 Teaching
 ======
@@ -178,5 +177,5 @@ Other
 ======
 * Co-Director LEEPS Lab UCSC, CA
 * Co-Director LEEX Lab PUCP, Peru
-* 
+* Co-founder Ankay Inc. www.ankay.org
 
