@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h1 align="center">Kristian López Vargas</h1>
-<p align="center">kristian@ucsc.edu</p>
+<p align="center"> <a href="mailto:kristian@ucsc.edu?Subject=From%20github%20page" target="_top">Send Mail</a> </p>
 <p align="center"> <a href="https://kmlv.github.io/cv/">https://kmlv.github.io/cv/</a> </p>
 
 {% include base_path %}
