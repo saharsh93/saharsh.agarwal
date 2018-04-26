@@ -11,7 +11,7 @@ redirect_from:
 <p 
 align="center"> 
 <a href="mailto:kristian@ucsc.edu?Subject=From%20github%20page" target="_top">kristian@ucsc.edu</a> 
-</br>
+<br>
 <a href="https://kmlv.github.io">kmlv.github.io</a> 
 </p>
 
