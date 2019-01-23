@@ -10,7 +10,7 @@ excerpt: ''
 
 date: 2017-10-10
 
-venue: ''
+venue: '(R&R at JEEM)'
 
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164730'
 
