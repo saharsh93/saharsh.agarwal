@@ -4,7 +4,7 @@ collection: research
 permalink: /research/2018-02-15-Interpersonal
 excerpt: ''
 date: 2018-02-15
-venue: ''
+venue: 'R&R at Economics Letters'
 paperurl: 'http://kmlv.github.io/files/Jaramillo-LopezVargas_interpersonal-comparisons-risk-attitudes.pdf'
 citation: 'Jaramillo, M., Lopez Vargas, K., (2018). &quot;Interpersonal Comparisons and Risk Attitudes in the Field.&quot; <i>Working Paper</i>'
 ---
