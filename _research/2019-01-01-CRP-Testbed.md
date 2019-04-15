@@ -4,17 +4,17 @@ title: "Improving the Cost-Effectiveness of the Conservation Reserve Program: A 
 
 collection: research
 
-permalink: /research/2017-10-10-CRP-Testbed
+permalink: /research/2019-01-01-CRP-Testbed
 
 excerpt: ''
 
-date: 2017-10-10
+date: 2019-01-01
 
 venue: 'R&R at Journal of Environmental Economics and Management'
 
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164730'
 
-citation: 'Cramton, P., Hellerstein, D., Higgins, N., Iovanna, R., Lopez Vargas, K., and Wallander, S. (2017). &quot;Improving the Cost-Effectiveness of the Conservation Reserve Program: A Laboratory Study.&quot; <i>Working Paper</i>.'
+citation: 'Cramton, P., Hellerstein, D., Higgins, N., Iovanna, R., Lopez Vargas, K., and Wallander, S. (2019). &quot;Improving the Cost-Effectiveness of the Conservation Reserve Program: A Laboratory Study.&quot; <i>Working Paper</i>.'
 
 ---
 The Conservation Reserve Program (CRP) is arguably the world’s largest conservation
@@ -36,4 +36,4 @@ R&R at Journal of Environmental Economics and Management
 
 [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164730)
 
-Recommended citation: Cramton, P., Hellerstein, D., Higgins, N., Iovanna, R., López-Vargas, K. and Wallander, S. (2017). &quot;Improving the Cost-Effectiveness of the Conservation Reserve Program: A Laboratory Study.&quot; <i>Working Paper</i>.
+Recommended citation: Cramton, P., Hellerstein, D., Higgins, N., Iovanna, R., López-Vargas, K. and Wallander, S. (2019). &quot;Improving the Cost-Effectiveness of the Conservation Reserve Program: A Laboratory Study.&quot; <i>Working Paper</i>.
