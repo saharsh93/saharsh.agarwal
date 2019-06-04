@@ -10,7 +10,7 @@ excerpt: ''
 
 date: 2019-01-01
 
-venue: 'R&R at Journal of Environmental Economics and Management'
+venue: 'R&R2 at Journal of Environmental Economics and Management'
 
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164730'
 
@@ -32,7 +32,7 @@ submit offers that are competitive against low-cost sellers, hurting both effici
 cost-effectiveness. The endogenous reference price outperforms the exogenous reference
 price in terms of cost-effectiveness by increasing participation and reducing rents.
 
-R&R at Journal of Environmental Economics and Management 
+R&R2 at Journal of Environmental Economics and Management 
 
 [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164730)
 
