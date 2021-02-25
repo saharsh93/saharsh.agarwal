@@ -10,7 +10,7 @@ excerpt: ''
 
 date: 2019-01-01
 
-venue: 'R&R2 at Journal of Environmental Economics and Management'
+venue: 'Forthcoming at Journal of Environmental Economics and Management'
 
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3164730'
 
