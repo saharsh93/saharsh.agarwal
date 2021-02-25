@@ -8,7 +8,7 @@ permalink: /research/2019-01-01-CRP-Testbed
 
 excerpt: ''
 
-date: 2019-01-01
+date: 2021-02-23
 
 venue: 'Forthcoming at Journal of Environmental Economics and Management'
 
