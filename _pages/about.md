@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kristian López Vargas"
+title: "Saharsh Agarwal"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a fourth year PhD student at Carnegie Mellon University (Heinz College).
 
-Assistant professor of economics at the University of California, Santa Cruz.
-My work is in microeconomics, behavioral economics and experimental economics.
-
-
-## [Research](research)
-
-## [Teaching](teaching)
-
-## [CV](cv)
 
 
 <!--
