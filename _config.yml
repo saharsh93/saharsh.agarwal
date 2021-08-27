@@ -87,14 +87,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kristian López Vargas"
-  avatar           : "Avatar.jpg"
-  bio              : "Assistant Professor of economics at the University of California, Santa Cruz"
+  name             : "Saharsh Agarwal"
+  avatar           : "img3.jpg"
+  bio              : "PhD student at Carnegie Mellon University"
   location         :
   employer         :
-  googlescholar    : "https://scholar-google-com.oca.ucsc.edu/citations?user=-eejuuUAAAAJ&hl=en"
-  email            : klopezva@ucsc.edu
-  github           : "kmlv"
+  googlescholar    : 
+  email            : saharshagarwal@cmu.edu
+  github           : 
   uri              :
   bitbucket        :
   codepen          :
@@ -106,18 +106,18 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "kristian-lopez-vargas-b9a38028/"
-  orcid            : "https://orcid.org/0000-0002-5728-1697"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@klo_pez"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "UC1dxicxwuH4xgk3sj8AHQmg"
+  youtube          : 
   wikipedia        :
 
 
