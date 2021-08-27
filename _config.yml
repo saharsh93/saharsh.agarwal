@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "|"
-name                     : &name "Kristian López Vargas"
+name                     : &name "Saharsh Agarwal"
 
-description              : &description "KLO's academic page"
+description              : &description "Saharsh's academic page"
 
 url                      : https://kmlv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
@@ -88,7 +88,7 @@ analytics:
 # Site Author
 author:
   name             : "Saharsh Agarwal"
-  avatar           : "img3.jpg"
+  avatar           : "img3.png"
   bio              : "PhD student at Carnegie Mellon University"
   location         :
   employer         :
