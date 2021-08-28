@@ -9,7 +9,7 @@ excerpt: ''
 
 date: 2021-08-31
 
-venue:
+venue: Major Revision, MIS Quarterly
 
 paperurl: ''
 
