@@ -7,7 +7,7 @@ permalink: /research/ICT
 
 excerpt: ''
 
-date: 2021-08-31
+date: 2021-01-01
 
 venue: Major Revision, MIS Quarterly
 
