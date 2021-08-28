@@ -3,7 +3,7 @@ title: "The Impact of Ride-Hailing Services on Congestion: Evidence from Indian 
 
 collection: research
 
-permalink: /research/BLM
+permalink: /research/congestion
 
 excerpt: ''
 
